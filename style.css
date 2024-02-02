@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+    position: relative;
+    bottom: 25vh;
+    margin: 60px;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    /* background-color: orange; */
+    /* border: 2px solid red; */
+}
+.center{
+    text-align: center;
+    line-height: 40%;
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    position: relative;
+    left: 30vh;
+    top: 7vh;
+    /* border: 2px solid black; */
+    width: 47vw;
+}
+span{
+    display: flex;
+    align-items: center;
+}
+span p{
+    padding: 5px;
+}
+.div{
+    margin: 2px;
+    width: 25px;
+    height: 25px;
+    line-height: ;
+}
+.box{
+    line-height: 0%;
+}
+.container1{
+    position: relative;
+    left: 20vw;
+    bottom: 30vh;
+}
+
+
+
+
+
+
+
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.brown{
+    background-color: rgb(211, 85, 59);
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: rgb(116, 139, 255);
+}
+.lightblue{
+    background-color: rgb(173, 188, 255);
+}
+.purple{
+    background-color: rgb(116, 104, 189);
+}
+.green{
+    background-color: #6adc6a;
+}
+.lightgb{
+    background-color: rgb(159, 244, 212);
+}
+.lightgreen{
+    background-color: #c4f5a6;
+}
+.purplepink{
+    background-color: #9d7af0;
+}
+.lightpurple{
+    background-color: #cdc3fd;
+}
